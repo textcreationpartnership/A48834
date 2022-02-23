@@ -1,0 +1,650 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentable ditty made on the death of Robert Deverux, Earl of Essex, who was beheaded in the Tower of London, on Ash-wednesday, 1603. The tune is Walladay</title>
+            <title>Lamentable dittie composed upon the death of Robert Lord Devereux late Earle of Essex.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48834</idno>
+            <idno type="STC">Wing L269A</idno>
+            <idno type="STC">Wing L266</idno>
+            <idno type="STC">ESTC R217611</idno>
+            <idno type="EEBO-CITATION">99829269</idno>
+            <idno type="PROQUEST">99829269</idno>
+            <idno type="VID">33706</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33706)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1869:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentable ditty made on the death of Robert Deverux, Earl of Essex, who was beheaded in the Tower of London, on Ash-wednesday, 1603. The tune is Walladay</title>
+                  <title>Lamentable dittie composed upon the death of Robert Lord Devereux late Earle of Essex.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.M.W.O. and T. Thackeray at the Angle in Duck lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Sweet England's pride is gone,".</note>
+                  <note>A second song, with caption: "A lamentable ballad on the Earl of Essex .." (Wing (2nd ed.) L266) is printed on the left side of sheet.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Identified as Wing L266 on UMI microfilm set "Early English books, 1641-1700" reel 2123.</note>
+                  <note>Reproduction of the original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereaux, --  Earl of, 1566-1601 --  Poetry --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:33706:1"/>
+            <head>A Lamentable DITTY made on the Death of <hi>ROBERT DEVERUX,</hi> Earl of ES<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was Be<g ref="char:EOLhyphen"/>headed in the <hi>Tower of London,</hi> on <hi>Aſh-wedneſday,</hi> 1603.</head>
+            <opener>The Tune in <hi>W<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>day.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <l>SVVeet <hi>England's</hi> pride is gone,</l>
+            <l>welladay, welladay,</l>
+            <l>VVhich makes her <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and groan,</l>
+            <l>ever more ſtill;</l>
+            <l>He <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her ſame advance,</l>
+            <l>In Ireland, Spain and France,</l>
+            <l>And by a ſad <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>chance,</l>
+            <l>in front his ta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</l>
+            <l>He was a hectuous <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>welladay, &amp;c.</l>
+            <l>And was eſteemed hear,</l>
+            <l>evermore ſtill,</l>
+            <l>He always lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>Which makes them <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh full <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>His Death they did <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>in every <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</l>
+            <l>Brave Honour grac'd him ſtill,</l>
+            <l>gallantly, gallantly,</l>
+            <l>He ne'r did <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in,</l>
+            <l>well it is known,</l>
+            <l>But Envy that ſoul <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>end,</l>
+            <l>Whoſe malice tyere both end,</l>
+            <l>With <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vecturs friend,</l>
+            <l>unto this th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all.</l>
+            <l>At Life he did <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>,</l>
+            <l>gallantly, &amp;c.</l>
+            <l>All Men that is and was,</l>
+            <l>evermore ſtill,</l>
+            <l>One day as it was ſeen,</l>
+            <l>In honour of the Queen,</l>
+            <l>Such deeds are ſeldom been,</l>
+            <l>as he did so.</l>
+            <l>abroad and ſhe at home,</l>
+            <l>gallantly, gallantly.</l>
+            <l>For Valour there was none,</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him before,</l>
+            <l>But Ireland, France and Spain,</l>
+            <l>That ſearch great <hi>Eſſex</hi>'s manie,</l>
+            <l>But England lov'd the ſame,</l>
+            <l>In every place.</l>
+            <l>But all would not prevail,</l>
+            <l>welladay, welladay.</l>
+            <l>His beets did not prevail,</l>
+            <l>more was the pity,</l>
+            <l>He was condemn'd to dye,</l>
+            <l>For Treaſon certainly,</l>
+            <l>But God, that ſits on <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h,</l>
+            <l>knoweth all things.</l>
+            <l>That mundey in the Morn,</l>
+            <l>welladay, &amp;c.</l>
+            <l>That he to the City came,</l>
+            <l>with all his Troops.</l>
+            <l>That firſt began the ſtrife,</l>
+            <l>And caus'd him loſe his life,</l>
+            <l>And others <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the like,</l>
+            <l>as well as be.</l>
+            <l>Yet her Pryncely Majesty,</l>
+            <l>graciouſly, graciouſly,</l>
+            <l>Hath pardon given frie,</l>
+            <l>to many of them,</l>
+            <l>She hath releaſt them quite,</l>
+            <l>And given them their right:</l>
+            <l>They did pray day and night,</l>
+            <l>God to defend her.</l>
+            <l>Shrove-Tueſday in the night.</l>
+            <l>welladay, &amp;c.</l>
+            <l>With a bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y hearted ſpight,</l>
+            <l>as it is ſaid.</l>
+            <l>The Lieutenant of the Tower,</l>
+            <l>VVho kept him in his power,</l>
+            <l>At ten a clock that hour,</l>
+            <l>to him did come,</l>
+            <l>And told unto him there,</l>
+            <l>mournfully, &amp;c.</l>
+            <l>My Lord, you muſt prepare,</l>
+            <l>to dye to morrow.</l>
+            <l>God's will be done, quoth he,</l>
+            <l>Yet ſhall you ſtrangely ſee,</l>
+            <l>God ſtrong in me to be,</l>
+            <l>though I am <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</l>
+            <l>I pray you pray for me,</l>
+            <l>welladay, &amp;c.</l>
+            <l>That God may ſtring then me</l>
+            <l>againſt that hour.</l>
+            <l>Then ſtraight way he did call</l>
+            <l>To the Guard under the wall,</l>
+            <l>And did intreat them all,</l>
+            <l>for him to pray;</l>
+            <l>For to morrow is the day,</l>
+            <l>welladay, &amp;c.</l>
+            <l>That I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt pay,</l>
+            <l>which I do owe,</l>
+            <l>It is my Life, I mean,</l>
+            <l>VVhich I muſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Queen,</l>
+            <l>Then ſo hath Justice given,</l>
+            <l>that I muſt dye.</l>
+            <l>In the morning was he brought,</l>
+            <l>welladay, &amp;c.</l>
+            <l>VVhere the Scaffold was ſet up.</l>
+            <l>within the Tower;</l>
+            <l>Many Lords were preſent then,</l>
+            <l>VVhich other Gentlemen,</l>
+            <l>VVhich were appointed then,</l>
+            <l>to ſee him bye.</l>
+            <l>You Noble Lords, quoth he,</l>
+            <l>welladay, &amp;c.</l>
+            <l>That muſt the witneſs,</l>
+            <l>of this my dream:</l>
+            <l>Know I ne'r lov'd papiſſcy,</l>
+            <l>But <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doth it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>And thus both <hi>Eſſex</hi> dye,</l>
+            <l>here in this place.</l>
+            <l>I have a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ance been,</l>
+            <l>welladay, &amp;c.</l>
+            <l>Yet never wrong'd my Queen,</l>
+            <l>in all my life;</l>
+            <l>My God I did offend,</l>
+            <l>VVhich grieves me at my end:</l>
+            <l>May all the reſt amend,</l>
+            <l>I do then forgive.</l>
+            <l>To the State I ne'r meant ill,</l>
+            <l>welladay, &amp;c.</l>
+            <l>Neither wiſht the Counn<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ill,</l>
+            <l>in all my life;</l>
+            <l>But lov'd with all my heart,</l>
+            <l>And always took theſe part,</l>
+            <l>VVhereas there were deſert,</l>
+            <l>in every place.</l>
+            <l>Then mildly did he pray,</l>
+            <l>mournfully, &amp;c.</l>
+            <l>He might the favour Love,</l>
+            <l>private to pray.</l>
+            <l>He then pray'd bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tſly,</l>
+            <l>And with great fervency</l>
+            <l>To God that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on high,</l>
+            <l>for to receive him.</l>
+            <l>And then he pray'd again,</l>
+            <l>mournfully, &amp;c.</l>
+            <l>God to preſerve his Queen,</l>
+            <l>from all her foes,</l>
+            <l>And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> long to reign,</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>,</l>
+            <l>And not to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Spain</hi>
+            </l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her.</l>
+            <l>His <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> off then,</l>
+            <l>welladay, &amp;c.</l>
+            <l>And <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Hat and Band,</l>
+            <l>and hung them by,</l>
+            <l>Staying all continually,</l>
+            <l>To, God <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> on high,</l>
+            <l>That is <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>My <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that muſt be,</l>
+            <l>then ſaid he chearfully.</l>
+            <l>Let him to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to me,</l>
+            <l>that Juſtly ſee him.</l>
+            <l>VVho here <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in him then.</l>
+            <l>Art thou <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, the Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,</l>
+            <l>VVho are appointed now,</l>
+            <l>my life to free?</l>
+            <l>Yes, my Lord, he did ſay,</l>
+            <l>welladay, &amp;c.</l>
+            <l>Forgive, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, I you pray,</l>
+            <l>for this your death:</l>
+            <l>I here to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forgive,</l>
+            <l>And <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Juſtice like,</l>
+            <l>No foul Crimes to forgive,</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> place.</l>
+            <l>Then he kneeled down again,</l>
+            <l>welladay &amp;c.</l>
+            <l>And was required by ſome,</l>
+            <l>there ſtanding by,</l>
+            <l>To forgive his Enemies,</l>
+            <l>Before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> clos'd his eyes,</l>
+            <l>VVhich he did in hearty wiſe,</l>
+            <l>thanking him for it:</l>
+            <l>That they would remember him,</l>
+            <l>welladay, &amp;c.</l>
+            <l>That he would forgive all them,</l>
+            <l>that hath him wrong'd.</l>
+            <l>Now, my Lords, I take my leave,</l>
+            <l>Sweet Child my Soul receive:</l>
+            <l>Now when you will prepare,</l>
+            <l>I am ready.</l>
+            <l>He laid his head on the Block,</l>
+            <l>welladay, &amp;c.</l>
+            <l>But his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> let the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>ſome there did ſay.</l>
+            <l>VVhat must be done, must be,</l>
+            <l>Shall be done preſently.</l>
+            <l>Then his Doublet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> put be,</l>
+            <l>and laid down again.</l>
+            <l>Then the Headſman did his part,</l>
+            <l>cruelly, cruelly.</l>
+            <l>He was not ſeen to ſtart</l>
+            <l>for all the blows.</l>
+            <l>His Soul is now at reſt,</l>
+            <l>In Heaven among the bleſt;</l>
+            <l>VVhere God ſend us to reſt,</l>
+            <l>when it ſhall pleaſe him.</l>
+         </div>
+         <div type="poem">
+            <head>A Lamentable BALLAD on the Earl of ESSEX.</head>
+            <opener>The Tune is, <hi>Eſſex's laſt Good night.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <l>ALl you that cry, O hone, O hone,</l>
+            <l>come now and ſing, O hone with me,</l>
+            <l>For why our Iewell is from us gone,</l>
+            <l>the valiant Knight of Chivalry:</l>
+            <l>Of rich and poor belov'd was be,</l>
+            <l>in time an honourable Knight,</l>
+            <l>VVhen by our Laws condemn'd to dye,</l>
+            <l>he lately took his laſt good night.</l>
+            <l>Count him not like to Champion,</l>
+            <l>thoſe traitoreus Men of Babington,</l>
+            <l>Nor like the Earl of <hi>Weſtmorland,</hi>
+            </l>
+            <l>by whom a number were undone:</l>
+            <l>he never yet hurt Mother's son;</l>
+            <l>his quarrel ſtill maintains the right,</l>
+            <l>VVhich makes the tears my face down run,</l>
+            <l>when I think on his laſt good night</l>
+            <l>The Portugals can witneſs be,</l>
+            <l>his Dagger at <hi>Lisbon</hi> Gate he ſlung,</l>
+            <l>And like a Knight of Chivalry,</l>
+            <l>his Chain upon the Gate or he flung;</l>
+            <l>I would to God, that he would come,</l>
+            <l>to fetch them back in order right,</l>
+            <l>VVhich thing was by his honour done.</l>
+            <l>yet lately took his laſt good night.</l>
+            <l>The <hi>Frenchmen</hi> they can <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>the Town of <hi>Gourney he took in,</hi>
+            </l>
+            <l>And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <hi>Rome</hi> immediately,</l>
+            <l>not caring for his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>VVith Bullets then he pierc'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their skin,</l>
+            <l>and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them fly from his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>:</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there that time did credit win,</l>
+            <l>and now hath tane his laſt good night.</l>
+            <l>And ſtately <hi>Cales</hi> can witneſs be,</l>
+            <l>then in his Proclamation right,</l>
+            <l>He <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> command them all ſtraightly,</l>
+            <l>to have a care of Infants lives,</l>
+            <l>And that none would hurt Men or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>which was againſt their right;</l>
+            <l>Therefore they pray'd for his long life,</l>
+            <l>which lately took his laſt good night.</l>
+            <l>VVould God be ne'r had <hi>Ireland</hi> known,</l>
+            <l>nor ſet one foot on <hi>Flanders</hi> ground,</l>
+            <l>Then might we well <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>oy'd our own,</l>
+            <l>where now our Jewel will not be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>VVhich makes our <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſtill abound;</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tears in our ſight,</l>
+            <l>To hear his Name in our ears to ſou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d,</l>
+            <l>Lord <hi>Deverux</hi> took his laſt good night.</l>
+            <l>Aſh-wedneſday, <hi>that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſnral day,</hi>
+            </l>
+            <l>when he came forth his Chamber <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>Vpon a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there he ſaw,</l>
+            <l>his head man ſtanding him before:</l>
+            <l>His <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deplore,</l>
+            <l>ſhedding ſalt tears in his ſight,</l>
+            <l>He ſaid farewel to rich and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>at hi, good-morrow and good-night.</l>
+            <l>My Lords, ſaid he, you ſtand but by,</l>
+            <l>to ſee performance <hi>of the Law,</hi>
+            </l>
+            <l>It is I that have deſive'd to dye,</l>
+            <l>and yield my ſelf unto the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>;</l>
+            <l>I have deſerv'd to dye I know,</l>
+            <l>but ne'r againſt my Country's right,</l>
+            <l>Nor to my Queen <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>upon my death, at my good-night.</l>
+            <l>Farewel, <hi>Elizabeth,</hi> my gracious <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>God bleſs thee with thy Council all;</l>
+            <l>Farewel my Knights of Chivaley;</l>
+            <l>farewel my Souldiers ſtout and tall,</l>
+            <l>Farewel the Commons great and ſmall;</l>
+            <l>into the hands of Men <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>,</l>
+            <l>My life ſhall make attends for all,</l>
+            <l>for Eſſex <hi>bids the World good-night.</hi>
+            </l>
+            <l>Farewel dear VVife and Children <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</l>
+            <l>farewel my kind and tender son,</l>
+            <l>Comfort yourſelves, mourn not for me,</l>
+            <l>although your fall be now begun,</l>
+            <l>My time is come, my glaſs is run,</l>
+            <l>comfort your ſelf in former light.</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by my fall you are undone,</l>
+            <l>your Father bids the World good-night</l>
+            <l>Derick, thou know'ſt at Cales <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>thy life, loſt for a Rape there done,</l>
+            <l>As thou thy ſelf can't <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>thine own hand <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and twenty hung,</l>
+            <l>But now thou ſeeſt myſelf <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come,</l>
+            <l>by chance into thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> light,</l>
+            <l>Strike out thy blow, that I may know,</l>
+            <l>thou <hi>Eſſex</hi> lov'd at his good night.</l>
+            <l>VVhen <hi>England coun<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> me a Papist,</hi>
+            </l>
+            <l>the work of Papiſts I defie,</l>
+            <l>I ne'r worſhipt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nor angel in h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</l>
+            <l>nor the Virgin Mary, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>But to Chriſt, which for my <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>,</l>
+            <l>trickling with ſols years in his ſight,</l>
+            <l>Spreading my acins to God on high,</l>
+            <l>Lord Jeſus receive my Soul this night.</l>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>A. M. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. D.</hi> and <hi>T. <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ray,</hi> at the <hi>Angel in Duck-lane,</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
